@@ -1,3 +1,3 @@
 # Mnist-Visualisation
 
-![Alt text for image](path_to_image)
+![Alt text for image](prokkk.png)
